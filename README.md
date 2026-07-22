@@ -1,2 +1,2 @@
-This is a sample repo for credit risk data analysis
+This is a sample repo for credit risk data analysis.
 # pandas
